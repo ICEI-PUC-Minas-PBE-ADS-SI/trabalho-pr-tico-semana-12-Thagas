@@ -12,17 +12,17 @@ Nesta atividade, você irá completar o projeto anterior permitindo cadastrar e 
 
 **Print do testes da API com Postman ou similar**
 
-<<  COLOQUE A IMAGEM GET AQUI >>![alt text](<Captura de tela 2025-05-28 223113.png>)
+<<  COLOQUE A IMAGEM GET AQUI >>![alt text](<trabalho-pr-tico-semana-12-Thagas/public/public/img/Captura de tela 2025-05-28 223113.png>)
 
-<<  COLOQUE A IMAGEM POST AQUI >>![alt text](<Captura de tela 2025-05-28 223215.png>)
+<<  COLOQUE A IMAGEM POST AQUI >>![alt text](<trabalho-pr-tico-semana-12-Thagas/public/public/img/Captura de tela 2025-05-28 223215.png>)
 
-<<  COLOQUE A IMAGEM PUT AQUI >>![alt text](<Captura de tela 2025-05-28 224257.png>)
+<<  COLOQUE A IMAGEM PUT AQUI >>![alt text](<trabalho-pr-tico-semana-12-Thagas/public/public/img/Captura de tela 2025-05-28 224257.png>)
 
-<<  COLOQUE A IMAGEM DELETE AQUI >>![alt text](<Captura de tela 2025-05-28 225907.png>)
+<<  COLOQUE A IMAGEM DELETE AQUI >>![alt text](<trabalho-pr-tico-semana-12-Thagas/public/public/img/Captura de tela 2025-05-28 225907.png>)
 
 **Print da aba NETWORK com requisições Fetch/XHR de POST**
 
-<<  COLOQUE A IMAGEM AQUI >>![alt text](<Captura de tela 2025-05-28 230327.png>)
+<<  COLOQUE A IMAGEM AQUI >>![alt text](<trabalho-pr-tico-semana-12-Thagas/public/public/img/Captura de tela 2025-05-28 230327.png>)
 
 ## **Orientações Gerais**
 
